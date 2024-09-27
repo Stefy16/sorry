@@ -1,0 +1,37 @@
+ /*Utilização do header*/
+    header{
+        background-color: rgb(127, 8, 163);
+        width: 100%;
+        height: 80px;
+    }
+
+    h1{
+        text-align: center;
+        color: white;
+    }
+
+    body{
+        background-color: black;
+    }
+
+ /*Seletor de elemento*/
+ p{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+ 
+ /*Seletor Universal*/
+    *{
+        text-align: left;
+        color: lightgreen;
+    }
+              
+ Aplicar a estilizção no parágrafo e no H2
+    p, h2{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    }
+               
+                       
